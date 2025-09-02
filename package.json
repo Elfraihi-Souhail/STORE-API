@@ -1,0 +1,21 @@
+{
+  "name": "jobs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "express-async-handler": "^1.2.0",
+    "mongoose": "^8.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
